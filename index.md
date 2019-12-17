@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## This is Samuel Baldwin's First Website
 
 You can use the [editor on GitHub](https://github.com/samuelbaldwin/My-Website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
